@@ -1,6 +1,6 @@
 [package]
-name = "rust-wasm-webpack-tutorial"
+name = "rust_wasm_webpack_template"
 version = "0.1.0"
-authors = ["Ian J Sikes <ianjsikes@gmail.com>"]
+authors = ["Benjamin Wasty <benny.wasty@gmail.com>"]
 
 [dependencies]
